@@ -1,4 +1,3 @@
-
 # RoboLess3000
 O nosso projeto foi criado no âmbito do concurso FAQtos, ele consiste numa mão robótica capaz de ser controlada por uma placa através de radiofrequências, além da própria placa quando conectada a um computador usar reconhecimento de voz para controlar os motores.
 
@@ -81,13 +80,13 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de roboless300
 - [@Gonçalo]()
 
 
+
+
+![Logo](https://i.ibb.co/cD1s0vD/logoESVV.jpg)
+
+
 ## Licença
 Este projeto encontra-se sobre a licença MIT
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-## Logotipo
-![Logo](https://i.ibb.co/cD1s0vD/logoESVV.jpg)
 
