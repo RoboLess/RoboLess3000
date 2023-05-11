@@ -9,7 +9,7 @@ O nosso projeto foi criado no âmbito do concurso FAQtos, ele consiste numa mão
 ## Ferramentas usadas
 Arduino IDE
 
-Visual Basic / .NET framework
+c# / .NET framework
 
 
 ## Como funciona o nosso protocolo
@@ -57,7 +57,16 @@ O NRF24L01 é uma placa capaz de transmitir e receber informação que em conjun
 - Uso do produto à distância
 - Reconhecimento de voz
 - Movimentos realistas trazidos pelo design e engenharia da mão
+- Controlo da mão por um programa de computadorexterno
 
+
+
+## Como funciona o programa controlador da radio
+Criamos um projeto **Windows Forms C#** capaz de se conectar pelo protocolo USB ao arduino, reproduzindo sinais radio posteriormente recebidos pela mão
+
+![RoboLess3000Programa](https://cdn.discordapp.com/attachments/920290508973146142/1106350096343367752/image.png)
+
+Usamos o Windows para fazer o reconhecimento de voz, tal como o protocolo USB tratado pelo Kernel do Windows
 
 ## Feedback
 
@@ -87,4 +96,3 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de roboless300
 Este projeto encontra-se sobre a licença MIT
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
