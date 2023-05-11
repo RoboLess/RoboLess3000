@@ -51,8 +51,6 @@ O NRF24L01 é uma placa capaz de transmitir e receber informação que em conjun
 
 **Pino 12** - **MISO**
 
-#### Retorna todos os itens
-
 ## Funcionalidades
 
 - Controlo de uma mão robótica
