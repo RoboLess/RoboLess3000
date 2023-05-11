@@ -75,9 +75,9 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de roboless300
 
 ## Autores
 
-- [@Marques](https://github.com/Maruqes)
-- [@Diogo]()
-- [@Gonçalo]()
+- [@Gonçalo Marques](https://github.com/Maruqes)
+- [@Diogo Cardoso]()
+- [@Gonçalo Vilaverde]()
 
 
 
