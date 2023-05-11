@@ -1,3 +1,4 @@
+
 # RoboLess3000
 O nosso projeto foi criado no âmbito do concurso FAQtos, ele consiste numa mão robótica capaz de ser controlada por uma placa através de radiofrequências, além da própria placa quando conectada a um computador usar reconhecimento de voz para controlar os motores.
 
@@ -29,6 +30,9 @@ Visual Basic / .NET framework
 |bit[0]| bit[1]| bit[2]| bit[3]| bit[4]| bit[5]| bit[6]| bit[7]|  
 |:-----| :-----| :-----| :-----| :-----| :-----| :-----| :-----|
 | UPDT |  UPDT |  UPDT |  UPDT |  UPDT |  NULL |  NULL |  NULL |
+
+#### byte[1]-byte[7]
+Estes bytes contem o nível de força feita pelo motor, puxando o dedo, estes podem ser alterados de 0 até 255 sem causar nenhum erro, mas o certo é configurar apenas de 0 até 180 pelo simples facto de os motores serem de 180 graus
 
 
 ## Spreadsheet da conexão do NRF24L01
