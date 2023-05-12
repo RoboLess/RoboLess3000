@@ -57,7 +57,7 @@ O NRF24L01 é uma placa capaz de transmitir e receber informação que em conjun
 - Uso do produto à distância
 - Reconhecimento de voz
 - Movimentos realistas trazidos pelo design e engenharia da mão
-- Controlo da mão por um programa de computadorexterno
+- Controlo da mão por um programa de computador externo
 
 
 
