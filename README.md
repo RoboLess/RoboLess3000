@@ -30,7 +30,7 @@ c# / .NET framework
 |:-----| :-----| :-----| :-----| :-----| :-----| :-----| :-----|
 | UPDT |  UPDT |  UPDT |  UPDT |  UPDT |  NULL |  NULL |  NULL |
 
-#### byte[1]-byte[7]
+#### byte[1]-byte[5]
 Estes bytes contem o nível de força feita pelo motor, puxando o dedo, estes podem ser alterados de 0 até 255 sem causar nenhum erro, mas o certo é configurar apenas de 0 até 180 pelo simples facto de os motores serem de 180 graus
 
 
