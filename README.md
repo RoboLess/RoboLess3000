@@ -62,7 +62,9 @@ O NRF24L01 é uma placa capaz de transmitir e receber informação que em conjun
 
 
 ## Como funciona o programa controlador da radio
-Criamos um projeto **Windows Forms C#** capaz de se conectar pelo protocolo USB ao arduino, reproduzindo sinais radio posteriormente recebidos pela mão
+Criamos um projeto **Windows Forms C#** capaz de se conectar pelo protocolo USB ao arduino, reproduzindo sinais radio posteriormente recebidos pela mão.
+
+Este mesmo programa funcionará também como servidor web para controlo da mao através  de um website
 
 ![RoboLess3000Programa](https://cdn.discordapp.com/attachments/920290508973146142/1106350096343367752/image.png)
 
