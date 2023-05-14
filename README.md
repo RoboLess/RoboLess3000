@@ -78,7 +78,7 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de roboless300
 
 ## Referência
 
- - [Exmeplos de usar os motores](https://docs.arduino.cc/learn/electronics/servo-motors)
+ - [Exemplos de usar os motores](https://docs.arduino.cc/learn/electronics/servo-motors)
  - [nRF24L01](https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/)
 
 
