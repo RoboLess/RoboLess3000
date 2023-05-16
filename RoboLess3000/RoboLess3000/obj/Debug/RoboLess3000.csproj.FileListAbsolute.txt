@@ -1,0 +1,37 @@
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.exe.config
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.exe
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.pdb
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.AssemblyReference.cache
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.Form1.resources
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.Properties.Resources.resources
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.GenerateResource.cache
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.exe
+C:\Users\Gonçalo Marques\source\repos\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.pdb
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.AssemblyReference.cache
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.SuggestedBindingRedirects.cache
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.Properties.Resources.resources
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.GenerateResource.cache
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.CoreCompileInputs.cache
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.exe
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.pdb
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.exe.config
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.exe
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.pdb
+C:\Users\gonca\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.RoboLess.resources
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.exe.config
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.exe
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\bin\Debug\RoboLess3000.pdb
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\bin\Debug\MimeTypesMap.dll
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.AssemblyReference.cache
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.RoboLess.resources
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.Properties.Resources.resources
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.GenerateResource.cache
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.csproj.CopyComplete
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.exe
+C:\Users\Gonçalo Marques\Desktop\RoboLess3000\RoboLess3000\obj\Debug\RoboLess3000.pdb
